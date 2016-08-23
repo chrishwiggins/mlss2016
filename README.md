@@ -6,6 +6,8 @@
 
 - makefile includes useful commands for editing, compiling drafts, etc. while editing a talk
 
-- start with the makefile in "doc"; "out" contains examples of what the outputs should look like (generated using "make everything; make move")
+- start with the makefile in "doc"
+ 
+- "out" contains examples of what the outputs should look like (generated using "make everything; make move")
 
 - "make" on makefile will turn wiggins-raw.md (a markdownfile) and generate wiggins.pdf
